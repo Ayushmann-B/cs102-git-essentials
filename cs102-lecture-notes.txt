@@ -1,0 +1,6 @@
+5 git commands that i learned so far :
+git-keygen -t RSA
+git add
+git clone
+git commit
+git push/pull
