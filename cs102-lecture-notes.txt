@@ -4,3 +4,6 @@ git add
 git clone
 git commit
 git push/pull
+In today's lecture i learned about creating ssh keys and adding it to Github repository.
+I learned how to clone a repository to local machine using wsl and also learned how to stage and commit the changes in local repository and then to push the changes to github.
+At the end i also learned how to pull the changes feom github to local machine using git pull command.
